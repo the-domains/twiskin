@@ -1,0 +1,14 @@
+layout_spectrum: 0.7164743621833622
+typography_spectrum: 0.04557686788029969
+color:
+  brandStrength: 0.6933973566628993
+  lightness: 0.8322984252590686
+  saturation: 0.391168155008927
+  rhythmicContrast: 0.8267891183495522
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: twiskin
